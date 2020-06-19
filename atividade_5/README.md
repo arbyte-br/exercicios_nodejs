@@ -9,4 +9,4 @@ A aplicação deve:
 - Contar quantos caracteres tem no que o usuário digitou  
 - Informar o número de caracteres ao usuário (Ex.: "Você digitou 32 caracteres!")  
 
-## Ao final, suba suas atividade para o github
+## Ao final, suba suas atividades para o GitHub

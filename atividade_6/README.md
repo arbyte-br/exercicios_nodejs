@@ -11,4 +11,4 @@ A aplicação deve:
 - Informar o número de caracteres ao usuário (Ex.: "Você digitou 32 caracteres!")  
 - Mostrar para o usuário qual foi a pessoa que digitou mais caracteres  
 
-## Ao final, suba suas atividade para o github
+## Ao final, suba suas atividades para o GitHub

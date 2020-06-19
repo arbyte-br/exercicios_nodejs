@@ -9,4 +9,4 @@ A aplicação deve:
 - Calcular sua área  
 - Informar a área calculada ao usuário  
 
-## Ao final, suba suas atividade para o github
+## Ao final, suba suas atividades para o GitHub

@@ -7,3 +7,5 @@
 - _Atividade 4 (Obrigatória)_: Criar uma aplicação que informe o signo do usuário
 - _Atividade 5 (Opcional)_: Criar uma aplicação que conta o número de caracteres digitados pelo usuário
 - _Atividade 6 (Opcional)_: Adicionar um ranking na aplicação feita na atividade 5
+
+## Ao final, suba suas atividades para o GitHub

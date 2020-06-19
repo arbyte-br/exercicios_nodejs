@@ -10,4 +10,4 @@ A aplicação deve:
 - Se o usuário responder sim para as perguntas anteriores, mostrar um elogio para o usuário  
 - Se não, dar bronca no usuário  
 
-## Ao final, suba suas atividade para o github
+## Ao final, suba suas atividades para o GitHub

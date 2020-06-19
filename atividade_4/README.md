@@ -8,4 +8,4 @@ A aplicação deve:
 - Perguntar ao usuário sua data de nascimento  
 - Informar ao usuário qual o seu signo com base na sua data de nascimento  
 
-## Ao final, suba suas atividade para o github
+## Ao final, suba suas atividades para o GitHub
